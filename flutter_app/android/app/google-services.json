@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "368218582261",
+    "firebase_url": "https://euonia-temp.firebaseio.com",
+    "project_id": "euonia-temp",
+    "storage_bucket": "euonia-temp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368218582261:android:0464041e2702f5fd8869bc",
+        "android_client_info": {
+          "package_name": "com.example.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368218582261-1olcc0l1i9tapo4eai0oc9dlqrkejl3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2DFPa82GKyy7Qtw7TkuTzvPxyAK9MaaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368218582261-1olcc0l1i9tapo4eai0oc9dlqrkejl3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
