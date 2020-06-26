@@ -53,7 +53,7 @@ class _SignInState extends State<SignIn> {
               RaisedButton(
                   color: Colors.pink[400],
                   child: Text(
-                    'Sign In'
+                    'Sign In',
                         style: TextStyle(color: Colors.white),
                   ),
                   onPressed: () async {
